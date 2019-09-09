@@ -7,7 +7,7 @@ I have this running on a cronjob so I can have alerts about emails regardless of
 In the email-helper.py file you will see that in this example I am just filtering for emails that have ebay in the subject as the person who I made this for was using it for eBay.
 
 
-#### Instructions
+### Instructions
 
 You will need to have created a Twilio account for this.
 
